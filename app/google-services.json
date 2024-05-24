@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192575607422",
+    "project_id": "welcome-a5650",
+    "storage_bucket": "welcome-a5650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192575607422:android:2b4ce63585fc356e4cfe2f",
+        "android_client_info": {
+          "package_name": "com.boom.welcome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGoEvEGsgVGdwvv62qTdf86eJTqBxMTS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

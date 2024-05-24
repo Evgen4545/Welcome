@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Checkpoint</string>
+    <string name="title_home">Журнал</string>
+    <string name="title_scan_qr">QR-код</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_name">Имя</string>
+    <string name="prompt_post">Должность</string>
+    <string name="prompt_pin">Придумайте пин-код</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="in">Вход</string>
+    <string name="registr">Регистрация</string>
+</resources>
